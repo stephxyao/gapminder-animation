@@ -4,3 +4,6 @@
 .Ruserdata
 
 *.Rproj
+
+*cache*
+*files*
