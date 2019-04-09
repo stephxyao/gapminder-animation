@@ -1,0 +1,4 @@
+
+READ ME:
+
+The RMD file contains code for an animated plot of life expectancy vs. GDP for different countries in Africa, the Americas, and Asia. The data I used is from the gapminder package. To replicate the HTML, knit the RMD file.
